@@ -1,0 +1,41 @@
+specification,estimator,control,plug-in ratio,control ratio,net ratio,ci low,ci high,net gap %,net gap % ci low,net gap % ci high
+full controls,unadjusted,hybrid,0.3279,0.4784,0.6854,0.6631,0.7084,-31.4615,-33.692,-29.1559
+full controls,unadjusted,recent luxury gasoline,0.3279,0.428,0.766,0.7429,0.7898,-23.4027,-25.7107,-21.023
+full controls,IPW (ATT),hybrid,0.4876,0.6632,0.7352,0.6805,0.7943,-26.4774,-31.9459,-20.5695
+full controls,IPW (ATT),recent luxury gasoline,0.4876,0.6782,0.719,0.6372,0.8114,-28.0978,-36.2843,-18.8596
+full controls,AIPW (ATT),hybrid,0.512,0.6806,0.7523,0.684,0.8274,-24.7725,-31.5989,-17.2649
+full controls,AIPW (ATT),recent luxury gasoline,0.512,0.7155,0.7157,0.6319,0.8105,-28.4337,-36.8086,-18.9488
+full controls,AIPW (ATE),hybrid,0.5721,0.6774,0.8445,0.8145,0.8757,-15.5485,-18.552,-12.4342
+full controls,AIPW (ATE),recent luxury gasoline,0.5721,0.7562,0.7566,0.7319,0.7821,-24.3414,-26.8104,-21.7892
+no controls for wealth and home value,unadjusted,hybrid,0.3279,0.4784,0.6854,0.6631,0.7084,-31.4615,-33.692,-29.1559
+no controls for wealth and home value,unadjusted,recent luxury gasoline,0.3279,0.428,0.766,0.7429,0.7898,-23.4027,-25.7107,-21.023
+no controls for wealth and home value,IPW (ATT),hybrid,0.4548,0.638,0.7129,0.6633,0.7661,-28.7131,-33.6666,-23.3897
+no controls for wealth and home value,IPW (ATT),recent luxury gasoline,0.4548,0.6568,0.6924,0.6309,0.7598,-30.762,-36.9076,-24.0176
+no controls for wealth and home value,AIPW (ATT),hybrid,0.4952,0.6435,0.7695,0.6871,0.8617,-23.0522,-31.2867,-13.831
+no controls for wealth and home value,AIPW (ATT),recent luxury gasoline,0.4952,0.6912,0.7164,0.633,0.8109,-28.3574,-36.7048,-18.9091
+no controls for wealth and home value,AIPW (ATE),hybrid,0.5274,0.6367,0.8284,0.7979,0.8601,-17.1579,-20.2056,-13.9937
+no controls for wealth and home value,AIPW (ATE),recent luxury gasoline,0.5274,0.7153,0.7373,0.7124,0.7631,-26.2669,-28.7572,-23.6896
+no controls for the ZIP code and state,unadjusted,hybrid,0.3279,0.4784,0.6854,0.6631,0.7084,-31.4615,-33.692,-29.1559
+no controls for the ZIP code and state,unadjusted,recent luxury gasoline,0.3279,0.428,0.766,0.7429,0.7898,-23.4027,-25.7107,-21.023
+no controls for the ZIP code and state,IPW (ATT),hybrid,0.5332,0.666,0.8007,0.7522,0.8523,-19.9329,-24.7812,-14.7722
+no controls for the ZIP code and state,IPW (ATT),recent luxury gasoline,0.5332,0.7058,0.7556,0.706,0.8086,-24.4439,-29.3958,-19.1448
+no controls for the ZIP code and state,AIPW (ATT),hybrid,0.5513,0.6776,0.8137,0.7573,0.8743,-18.6328,-24.2731,-12.5724
+no controls for the ZIP code and state,AIPW (ATT),recent luxury gasoline,0.5513,0.7336,0.7515,0.6938,0.8141,-24.8453,-30.619,-18.5912
+no controls for the ZIP code and state,AIPW (ATE),hybrid,0.6019,0.689,0.8736,0.8425,0.9058,-12.6427,-15.7466,-9.4244
+no controls for the ZIP code and state,AIPW (ATE),recent luxury gasoline,0.6019,0.7562,0.7959,0.77,0.8227,-20.4063,-22.998,-17.7275
+no control for years at the address,unadjusted,hybrid,0.3279,0.4784,0.6854,0.6631,0.7084,-31.4615,-33.692,-29.1559
+no control for years at the address,unadjusted,recent luxury gasoline,0.3279,0.428,0.766,0.7429,0.7898,-23.4027,-25.7107,-21.023
+no control for years at the address,IPW (ATT),hybrid,0.5238,0.7004,0.7479,0.6901,0.8106,-25.2076,-30.9918,-18.9386
+no control for years at the address,IPW (ATT),recent luxury gasoline,0.5238,0.7132,0.7345,0.6731,0.8014,-26.5531,-32.6892,-19.8577
+no control for years at the address,AIPW (ATT),hybrid,0.5481,0.7077,0.7745,0.6969,0.8607,-22.5522,-30.3119,-13.9285
+no control for years at the address,AIPW (ATT),recent luxury gasoline,0.5481,0.7337,0.7471,0.6717,0.8309,-25.2943,-32.8287,-16.9148
+no control for years at the address,AIPW (ATE),hybrid,0.6281,0.723,0.8686,0.8374,0.901,-13.1361,-16.2566,-9.8994
+no control for years at the address,AIPW (ATE),recent luxury gasoline,0.6281,0.8019,0.7832,0.7574,0.8099,-21.6794,-24.257,-19.014
+tenure not recorded counted as renting,unadjusted,hybrid,0.4912,0.5964,0.8237,0.8034,0.8445,-17.6329,-19.6607,-15.5538
+tenure not recorded counted as renting,unadjusted,recent luxury gasoline,0.4912,0.5776,0.8505,0.8314,0.87,-14.9503,-16.8617,-12.995
+tenure not recorded counted as renting,IPW (ATT),hybrid,0.6099,0.7462,0.8173,0.7676,0.8701,-18.2749,-23.2417,-12.9867
+tenure not recorded counted as renting,IPW (ATT),recent luxury gasoline,0.6099,0.7817,0.7802,0.7345,0.8286,-21.9829,-26.5457,-17.1366
+tenure not recorded counted as renting,AIPW (ATT),hybrid,0.6175,0.7464,0.8273,0.7734,0.8849,-17.2729,-22.6636,-11.5066
+tenure not recorded counted as renting,AIPW (ATT),recent luxury gasoline,0.6175,0.7802,0.7915,0.7421,0.8441,-20.8546,-25.7926,-15.5881
+tenure not recorded counted as renting,AIPW (ATE),hybrid,0.7068,0.7905,0.8941,0.8686,0.9204,-10.5881,-13.1366,-7.9649
+tenure not recorded counted as renting,AIPW (ATE),recent luxury gasoline,0.7068,0.8324,0.8492,0.8269,0.872,-15.0822,-17.3052,-12.7995

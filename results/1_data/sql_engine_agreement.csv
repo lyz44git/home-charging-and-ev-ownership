@@ -1,0 +1,2 @@
+spark_version,vehicle_rows_read,household_rows_read,result_rows_duckdb,result_rows_spark,rows_only_in_one_engine,cells_compared,mismatched_cells
+4.3.0,348903764,53069701,9411,9411,0,94110,0

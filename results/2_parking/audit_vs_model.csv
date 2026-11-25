@@ -1,0 +1,7 @@
+h_parking,cannot_tell,carport,driveway_only,garage,none_visible,shared_lot
+cannot_tell,158,0,5,5,3,3
+carport,1,19,2,1,0,0
+driveway_only,49,2,64,2,0,1
+garage,10,0,0,202,0,0
+none_visible,15,0,0,0,22,0
+shared_lot,6,0,0,0,0,30

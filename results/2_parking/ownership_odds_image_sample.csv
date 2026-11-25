@@ -1,0 +1,13 @@
+comparison,outcome,homes,homes in the first group,owners of the vehicle,owners of the vehicle in the first group,odds ratio,ci low,ci high
+"renters vs owners, homes with private parking in the image",has_plugin,3697,244,1120,39,0.366,0.233,0.574
+"renters vs owners, single-family homes with private parking in the image",has_plugin,3205,162,974,20,0.39,0.236,0.646
+"renters vs owners, single-family homes with private parking in the image, no controls",has_plugin,3205,162,974,20,0.285,0.175,0.465
+"no private parking vs private parking, no controls",has_plugin,5083,874,1439,224,0.672,0.562,0.802
+"no private parking vs private parking, building type only",has_plugin,5083,874,1439,224,0.81,0.667,0.984
+"no private parking vs private parking, full controls",has_plugin,5083,874,1439,224,0.815,0.644,1.031
+"no private parking vs private parking, full controls",has_bev,5083,874,1051,159,0.77,0.594,0.997
+"no private parking vs private parking, single-family homes",has_plugin,3738,229,1089,56,0.774,0.515,1.161
+"no private parking vs private parking, condos and other multi-unit homes",has_plugin,1345,645,350,168,0.944,0.697,1.277
+"no private parking vs private parking, at the address 15 years or more",has_plugin,1528,174,318,36,1.019,0.606,1.714
+"no private parking vs private parking, comparison vehicle",has_hybrid,5083,874,295,49,1.044,0.702,1.552
+"no private parking vs private parking, comparison vehicle",has_recent_luxury_gas,5083,874,503,64,0.681,0.479,0.968

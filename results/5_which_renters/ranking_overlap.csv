@@ -1,0 +1,5 @@
+households,renters,plug-in rate %,mean predicted effect of renting pp,median wealth score,median age,median years at the address,plug-ins in the ZIP code %,rank correlation of the two rankings,overlap of the two top fifths %
+"renters, top fifth by predicted ownership",60000,3.082,-2.238,98.0,47.0,4.0,4.555,0.871,78.605
+"renters, top fifth by predicted loss from renting",60000,2.795,-2.396,100.0,51.0,5.0,4.944,0.871,78.605
+renters in both,47163,3.337,-2.551,110.0,48.0,4.0,5.226,0.871,78.605
+all renters scored,300000,0.909,-0.869,46.0,56.0,7.0,1.844,0.871,78.605

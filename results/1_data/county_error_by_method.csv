@@ -1,0 +1,6 @@
+method,counties,mae_pp,rmse_pp,bias_pp,corr,within_acs_90pct_moe_share
+raw,259,2.357,2.828,-2.339,0.834,0.274
+state_scaled,259,1.089,1.456,-0.143,0.882,0.676
+model,259,1.012,1.344,-0.249,0.865,0.734
+model_scaled,259,0.948,1.239,-0.038,0.884,0.753
+reference: median ACS 90% margin of error,259,1.265,,,,

@@ -1,0 +1,20 @@
+quantity,value,note,bound
+renter households of single-family homes,878879.0,,
+"plug-in households among them, observed",7998.7,,
+plug-in households if they held plug-ins as comparable owners do,15412.0,,
+"missing plug-in households, total gap",7413.3,,
+"median price (MSRP) of plug-in vehicles held in the 15 states, $",48490.0,"1,404,910 of 1,422,280 plug-in vehicles have a price",
+"additional plug-in households without the charging barrier, vs hybrid",2010.9,net ratio 0.799; 25.1% more,point
+"additional plug-in households without the charging barrier, vs hybrid",2440.7,net ratio 0.766; 30.5% more,ci low
+"additional plug-in households without the charging barrier, vs hybrid",1600.1,net ratio 0.833; 20.0% more,ci high
+"price equivalent of the net gap, vs hybrid, $ per vehicle",4104.7,"8.5% of the median price; elasticity -2.76 (Xing, Leard and Li (2021), https://doi.org/10.1016/j.jeem.2021.102432)",point
+"price equivalent as % of the former $7,500 federal credit, vs hybrid",54.7,"elasticity -2.76 (Xing, Leard and Li (2021), https://doi.org/10.1016/j.jeem.2021.102432)",point
+"price equivalent of the net gap, vs hybrid, $ per vehicle",5465.1,"11.3% of the median price; elasticity -2.1 (Muehlegger and Rapson (2022), https://doi.org/10.1016/j.jpubeco.2022.104752)",point
+"price equivalent as % of the former $7,500 federal credit, vs hybrid",72.9,"elasticity -2.1 (Muehlegger and Rapson (2022), https://doi.org/10.1016/j.jpubeco.2022.104752)",point
+"additional plug-in households without the charging barrier, vs recent luxury gasoline",3150.9,net ratio 0.717; 39.4% more,point
+"additional plug-in households without the charging barrier, vs recent luxury gasoline",3642.5,net ratio 0.687; 45.5% more,ci low
+"additional plug-in households without the charging barrier, vs recent luxury gasoline",2680.5,net ratio 0.749; 33.5% more,ci high
+"price equivalent of the net gap, vs recent luxury gasoline, $ per vehicle",6200.6,"12.8% of the median price; elasticity -2.76 (Xing, Leard and Li (2021), https://doi.org/10.1016/j.jeem.2021.102432)",point
+"price equivalent as % of the former $7,500 federal credit, vs recent luxury gasoline",82.7,"elasticity -2.76 (Xing, Leard and Li (2021), https://doi.org/10.1016/j.jeem.2021.102432)",point
+"price equivalent of the net gap, vs recent luxury gasoline, $ per vehicle",8308.5,"17.1% of the median price; elasticity -2.1 (Muehlegger and Rapson (2022), https://doi.org/10.1016/j.jpubeco.2022.104752)",point
+"price equivalent as % of the former $7,500 federal credit, vs recent luxury gasoline",110.8,"elasticity -2.1 (Muehlegger and Rapson (2022), https://doi.org/10.1016/j.jpubeco.2022.104752)",point

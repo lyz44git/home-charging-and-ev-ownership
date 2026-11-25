@@ -1,0 +1,13 @@
+building,garage_in_property_record,imaged_homes,usable_pct,no_private_parking_pct_of_usable,garage_visible_pct_of_usable
+condo,attached,218,56.3,5.7,91.1
+condo,detached,112,60.9,44.9,44.0
+condo,other,276,56.8,34.7,46.3
+condo,unrecorded,532,58.8,64.6,24.0
+multi_unit,attached,162,74.1,20.5,73.6
+multi_unit,detached,173,54.8,42.6,26.6
+multi_unit,other,235,63.6,46.6,22.3
+multi_unit,unrecorded,573,62.3,67.3,9.0
+single_family,attached,1962,66.8,1.9,89.9
+single_family,detached,892,52.1,8.8,43.7
+single_family,other,1550,62.4,3.0,65.3
+single_family,unrecorded,1806,62.9,12.3,36.9

@@ -1,0 +1,4 @@
+city,permits,n,years,p10 $,p25 $,median $,p75 $,p90 $,mean $,note
+"Cambridge, MA",charger only,131,2018-2026,850.0,1084.0,1500.0,2500.0,3000.0,1903.0,
+"Cambridge, MA",charger with panel or service work,39,2018-2026,1460.0,2250.0,4350.0,7890.0,11977.0,7542.0,
+"Dallas, TX","charger only, value of $100 or more",39,2018-2021,197.0,495.0,645.0,1291.0,1919.0,916.0,69% of the city's single-family charger permits carry a value under $100 and are left out

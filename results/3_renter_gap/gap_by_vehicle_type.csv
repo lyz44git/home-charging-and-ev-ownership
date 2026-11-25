@@ -1,0 +1,10 @@
+quantity,kind,"rate, renters %","rate, comparable owners %",ratio,ci low,ci high,percent,percent ci low,percent ci high
+recent luxury gasoline,renters against comparable owners,4.868,6.729,0.7234,0.709,0.7382,-27.6556,-29.0996,-26.1822
+hybrid,renters against comparable owners,2.5424,3.9144,0.6495,0.635,0.6644,-35.0488,-36.5013,-33.563
+plug-in hybrid,renters against comparable owners,0.2647,0.4217,0.6276,0.5866,0.6715,-37.2395,-41.3381,-32.8545
+battery-electric,renters against comparable owners,0.6586,1.3555,0.4858,0.4652,0.5074,-51.4165,-53.4794,-49.2621
+battery-electric vs plug-in hybrid,ratio of ratios,,,0.7741,0.7163,0.8366,-22.589,-28.3701,-16.3414
+plug-in hybrid vs hybrid,ratio of ratios,,,0.9663,0.9007,1.0366,-3.3729,-9.9315,3.6634
+battery-electric vs hybrid,ratio of ratios,,,0.748,0.7129,0.7848,-25.2,-28.7103,-21.5169
+plug-in hybrid vs recent luxury gasoline,ratio of ratios,,,0.8675,0.8069,0.9327,-13.2476,-19.3113,-6.7282
+battery-electric vs recent luxury gasoline,ratio of ratios,,,0.6716,0.6388,0.706,-32.8441,-36.1229,-29.3971

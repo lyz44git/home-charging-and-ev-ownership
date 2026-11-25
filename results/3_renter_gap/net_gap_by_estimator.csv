@@ -1,0 +1,9 @@
+specification,estimator,control,plug-in ratio,control ratio,net ratio,ci low,ci high,net gap %,net gap % ci low,net gap % ci high
+full controls,unadjusted,hybrid,0.3296,0.4748,0.6941,0.6754,0.7133,-30.5898,-32.4571,-28.671
+full controls,unadjusted,recent luxury gasoline,0.3296,0.4286,0.7689,0.7496,0.7887,-23.1061,-25.0354,-21.127
+full controls,IPW (ATT),hybrid,0.496,0.6326,0.784,0.7532,0.8161,-21.5962,-24.68,-18.3863
+full controls,IPW (ATT),recent luxury gasoline,0.496,0.691,0.7177,0.689,0.7476,-28.2282,-31.0985,-25.2384
+full controls,AIPW (ATT),hybrid,0.519,0.6495,0.7991,0.7662,0.8333,-20.0945,-23.3798,-16.6683
+full controls,AIPW (ATT),recent luxury gasoline,0.519,0.7234,0.7174,0.6871,0.749,-28.2604,-31.2869,-25.1005
+full controls,AIPW (ATE),hybrid,0.5746,0.672,0.8552,0.8291,0.8821,-14.4808,-17.0873,-11.7924
+full controls,AIPW (ATE),recent luxury gasoline,0.5746,0.7608,0.7553,0.7343,0.777,-24.4659,-26.5709,-22.3006

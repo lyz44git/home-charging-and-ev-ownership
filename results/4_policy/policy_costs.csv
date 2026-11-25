@@ -1,0 +1,8 @@
+policy,draws,"plug-ins added, mean","plug-ins added, 2.5%","plug-ins added, 97.5%","spending $M, mean","spending $M, 2.5%","spending $M, 97.5%","cost per additional plug-in $, mean","cost per additional plug-in $, 2.5%","cost per additional plug-in $, 97.5%","share of recipients who would own one anyway %, mean","share of recipients who would own one anyway %, 2.5%","share of recipients who would own one anyway %, 97.5%",share of draws cheaper than the purchase rebate %
+purchase rebate,500,2594.85,1670.38,3578.58,64.01,36.65,95.95,24440.05,20497.12,29158.06,75.76,69.09,82.7,
+"installation support, all plug-in renters claim, full barrier removed",500,2594.85,1670.38,3578.58,28.87,26.14,31.75,11638.41,8832.62,15607.17,75.76,69.09,82.7,100.0
+"installation support, only new plug-in households claim, full barrier removed",500,2594.85,1670.38,3578.58,7.08,4.54,9.85,2728.16,2617.19,2830.85,0.0,0.0,0.0,100.0
+"installation support, all plug-in renters claim, half the barrier removed",500,1297.37,841.48,1783.45,25.35,23.81,26.89,20565.03,14907.97,28691.73,86.13,81.75,90.49,70.6
+"installation support, only new plug-in households claim, half the barrier removed",500,1297.37,841.48,1783.45,3.54,2.29,4.86,2729.74,2581.43,2892.23,0.0,0.0,0.0,100.0
+"installation support, all plug-in renters claim, a quarter of the barrier removed",500,647.55,412.32,890.52,23.54,22.52,24.57,38421.69,26984.84,55994.41,92.54,89.97,95.08,3.2
+"installation support, only new plug-in households claim, a quarter of the barrier removed",500,647.55,412.32,890.52,1.77,1.11,2.45,2726.68,2522.88,2972.23,0.0,0.0,0.0,100.0

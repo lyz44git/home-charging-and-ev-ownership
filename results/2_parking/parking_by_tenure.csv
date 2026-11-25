@@ -1,0 +1,11 @@
+building,tenure,usable homes,without private parking %,ci low,ci high
+condo,owner,506,46.66,41.01,52.3
+condo,renter,45,60.35,43.29,76.72
+condo,unknown,110,61.2,49.14,72.42
+multi_unit,owner,180,42.1,32.34,52.05
+multi_unit,renter,188,79.24,72.52,85.46
+multi_unit,unknown,316,56.16,49.51,62.95
+single_family,owner,3227,5.6,4.66,6.62
+single_family,renter,175,6.49,2.79,10.77
+single_family,unknown,336,10.45,6.97,14.41
+single_family,renter minus owner,3402,0.9,-2.9,5.33

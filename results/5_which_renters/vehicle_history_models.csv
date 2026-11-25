@@ -1,0 +1,5 @@
+model,auc,avg_precision,top_decile_lift,brier,pred_over_actual,train_households,test_households,test_states,positive_rate_test_pct
+lightgbm_static,0.8494,0.1415,4.8063,0.0271,0.8716,3122488,973438,"CO,MA,NC",2.9855
+lightgbm_agg,0.87,0.2127,5.4194,0.0259,0.8642,3122488,973438,"CO,MA,NC",2.9855
+gru,0.8713,0.2168,5.4834,0.0259,0.7396,3122488,973438,"CO,MA,NC",2.9855
+transformer,0.87,0.2131,5.439,0.026,0.7433,3122488,973438,"CO,MA,NC",2.9855

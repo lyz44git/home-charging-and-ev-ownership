@@ -1,0 +1,4 @@
+features,"AUC, all homes","AUC, single_family","AUC, condo","AUC, multi_unit"
+"people, home, place",0.872,0.794,0.741,0.822
++ garage and parking fields of the record,0.894,0.833,0.81,0.828
+garage and parking fields only,0.812,0.691,0.679,0.572

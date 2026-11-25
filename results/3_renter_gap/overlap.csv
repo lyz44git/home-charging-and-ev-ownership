@@ -1,0 +1,11 @@
+quantile,"propensity, renters","propensity, owners"
+0.01,0.0066,0.0019
+0.05,0.0176,0.0029
+0.25,0.0704,0.0078
+0.5,0.1695,0.0199
+0.75,0.3408,0.0537
+0.95,0.6242,0.2067
+0.99,0.8024,0.4091
+share clipped at 0.01 / 0.99,0.0213,0.3141
+AUC of the propensity model,0.8596,
+effective number of owners after weighting,,212692.5529

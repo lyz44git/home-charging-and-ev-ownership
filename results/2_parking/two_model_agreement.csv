@@ -1,0 +1,8 @@
+labeler_a,labeler_b,question,images,same_answer_pct,cohen_kappa
+gpt-6.2-sol,gpt-6.2-astra,view_usable,8491,91.603,0.803
+gpt-6.2-sol,gpt-6.2-astra,off_street_parking,8491,85.856,0.807
+gpt-6.2-sol,gpt-6.2-astra,garage,8491,86.468,0.805
+gpt-6.2-sol,gpt-6.2-astra,building_type,8491,93.287,0.874
+gpt-6.2-sol,gpt-6.2-astra,street_parking_only,8491,96.267,0.666
+gpt-6.2-sol,gpt-6.2-astra,visible_ev_charger,8491,99.988,0.0
+gpt-6.2-sol,gpt-6.2-astra,"private parking (yes/no), both could judge",5021,98.765,0.956

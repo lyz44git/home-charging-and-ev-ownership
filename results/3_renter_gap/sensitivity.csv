@@ -1,0 +1,6 @@
+quantity,value,note
+"E-value, net ratio vs hybrid, point estimate",1.8125,ratio 0.799
+"E-value, net ratio vs hybrid, interval bound nearer 1",1.69,bound 0.833
+"E-value, net ratio vs recent luxury gasoline, point estimate",2.1349,ratio 0.717
+"E-value, net ratio vs recent luxury gasoline, interval bound nearer 1",2.004,bound 0.749
+"robustness value, partially linear model for plug-ins, to bring the estimate to zero",0.0254,partial R2 an unobserved confounder needs with both renting and plug-in ownership

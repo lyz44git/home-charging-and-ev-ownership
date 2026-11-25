@@ -1,0 +1,7 @@
+ranking,renters ranked highest,share of missing plug-ins %,ci low,ci high,renters scored,"missing plug-ins, estimated"
+causal forest (predicted loss from renting),top 20%,59.87,57.91,61.83,300000,2689.24
+ownership model (predicted probability of a plug-in),top 20%,60.07,58.22,61.93,300000,2689.24
+random,top 20%,20.0,20.0,20.0,300000,2689.24
+causal forest (predicted loss from renting),top 40%,82.02,80.74,83.68,300000,2689.24
+ownership model (predicted probability of a plug-in),top 40%,80.33,79.07,81.6,300000,2689.24
+random,top 40%,40.0,40.0,40.0,300000,2689.24

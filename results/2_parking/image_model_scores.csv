@@ -1,0 +1,4 @@
+comparison,images,auc,accuracy
+"local model vs vision-language labels, held-out states",1485,0.9224,0.8956
+"local model vs hand labels, held-out states only",105,0.9455,0.8762
+"vision-language labels vs hand labels, all audited",345,,0.9971

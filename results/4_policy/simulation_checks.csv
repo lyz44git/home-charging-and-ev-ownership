@@ -1,0 +1,9 @@
+quantity,simulation,closed form
+renter households simulated,878879.0,878879.0
+"plug-in households today, mean over draws",7995.97,7999.0
+"plug-ins added if the barrier is removed, mean",2594.85,2594.88
+"rebate that offsets the barrier, $ per vehicle, mean",5967.19,5967.19
+"plug-ins added by that rebate, mean",2594.85,2594.88
+"cost per additional plug-in, purchase rebate, mean $",24440.05,24443.5
+share of rebate recipients who would own a plug-in anyway %,75.76,75.76
+share of permits with panel or service work,0.23,0.23
